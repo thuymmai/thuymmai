@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thuymmai
-- 👀 I’m interested in astronomy
+- 👀 I’m interested in photography 
 - 🌱 I’m currently learning java
-- 😄 Pronouns: she/her
+
 
 <!---
 thuymmai/thuymmai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
