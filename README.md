@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thuymmai
 - 👀 I’m interested in photography 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning HTML, CSS, and Java.
 
 
 <!---
