@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @thuymmai
-- 👀 I’m interested in photography 
+- 👋 Hi, I’m @thuymmai (twee)
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML, CSS, and Java.
 
 
