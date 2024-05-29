@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thuymmai (twee)
+- 👋 Hi, I’m @thuymmai (twee my)
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML, CSS, and Java.
 
