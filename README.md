@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thuymmai (twee my)
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Java, C++, HTML, and CSS.
+- 👀 I’m obsessed with seals.
+- 🌱 I’m currently learning Spring Boot using Java.
 
 
 <!---
