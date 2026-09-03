@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thuymmai (twee my)
 - 👀 I’m obsessed with seals.
-- 🌱 I’m currently learning Spring Boot using Java.
+- 🌱 I’m currently learning Spring Boot.
 
 
 <!---
