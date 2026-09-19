@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thuymmai (twee my)
 - 👀 I’m obsessed with seals.
-- 🌱 I’m currently learning Spring Boot.
+- 🌱 I’m currently learning Spring Boot and ASP.NET.
 
 
 <!---
